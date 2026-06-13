@@ -1,4 +1,4 @@
-/* Clinique M28 — script unique du site.
+/* Truck Stop Santé — script unique du site.
    Gestion du consentement aux témoins (cookies).
    Par défaut : AUCUN suivi. Aucun témoin publicitaire n'est déposé
    tant que la personne n'a pas cliqué sur « Accepter ». */
